@@ -53,6 +53,7 @@
 * [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 * [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
 
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Self-hosted, open-source (GPL-3.0) autonomous penetration-testing platform to help demonstrate security of processing (Art. 32); a local privacy gateway tokenizes personal data so real IPs, hostnames and credentials never leave the environment.
 ## Data Protection Impact Assessments (DPIA, art. 35)
 * [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
 * [Guidelines on Data Protection Impact Assessment (WP29)](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236)
